@@ -6,8 +6,8 @@ Universidade Federal do Rio de Janeiro | Ciência da Computação | Computação
 
 - **MacBook Pro** (13-inch, Mid 2012)
 - **macOS Catalina** Versão 10.15.7
-- **Processador** 2,5 GHz Intel Core i5 Dual-Core
-- **Memória** 4 MB
+- **Processador** 2,5 GHz Intel Core i5 Dual-Core (3 MB de cache L3)
+- **Memória** 4 GB DDR3, 1600 MHz
 - **Gráficos** Intel HD Graphics 4000 1536 MB
 
 
