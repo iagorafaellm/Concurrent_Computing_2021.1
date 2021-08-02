@@ -19,5 +19,7 @@ Universidade Federal do Rio de Janeiro | Ciência da Computação | Computação
 | 10<sup>5</sup>  | 4 | 0.002105 | 0.000896 | 2.349330 |
 | 10<sup>7</sup>  | 2 | 0.201522 | 0.055435 | 3.635285 |
 | 10<sup>7</sup>  | 4 | 0.189849 | 0.081859 | 2.319220 |
-| 10<sup>9</sup>  | 2 | 0 | 0 | 0 |
-| 10<sup>9</sup>  | 4 | 0 | 0 | 0 |
+| 10<sup>9</sup>  | 2 | *** | *** | *** |
+| 10<sup>9</sup>  | 4 | *** | *** | *** |
+
+*** Não consegui os dados desses testes, o computador reinicia e me impossibilita de fazê-los.
