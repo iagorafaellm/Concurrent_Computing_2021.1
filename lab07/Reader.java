@@ -1,4 +1,6 @@
+import static java.lang.Math.sqrt;
 public class Reader extends Thread {
+
     private static final int ITERATIONS = 10;
     private static final int DELAY = 100;
 

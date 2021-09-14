@@ -6,7 +6,7 @@
 
 import static java.lang.Math.sqrt;
 
-public class Monitor_Main {
+public class Main {
     public static void main(String[] args) {
         int vectorSize = 10;
         ReaderWriter_Mon monitor = new ReaderWriter_Mon();

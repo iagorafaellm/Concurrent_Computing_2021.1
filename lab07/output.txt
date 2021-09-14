@@ -1,0 +1,2004 @@
+le.leitorLendo(1)
+le.leitorLendo(10)
+le.leitorLendo(9)
+le.leitorLendo(6)
+le.leitorLendo(7)
+le.leitorLendo(8)
+le.leitorLendo(4)
+le.leitorLendo(5)
+le.leitorLendo(3)
+le.leitorLendo(2)
+le.leitorLendo(1)
+le.escritorBloqueado(10)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.leitorLendo(10)
+le.leitorLendo(9)
+le.leitorLendo(4)
+le.leitorLendo(8)
+le.leitorLendo(2)
+le.leitorLendo(7)
+le.leitorLendo(3)
+le.leitorLendo(6)
+le.leitorLendo(5)
+[LeitorEscritor 2] 0 é par = true
+[Leitor 3] 0 é primo = false
+[LeitorEscritor 9] 0 é par = true
+[LeitorEscritor 7] 0 é par = true
+[LeitorEscritor 1] 0 é par = true
+[LeitorEscritor 8] 0 é par = true
+[LeitorEscritor 10] 0 é par = true
+[Leitor 4] 0 é primo = false
+[Leitor 6] 0 é primo = false
+[LeitorEscritor 3] 0 é par = true
+le.leitorSaindo(2)
+[LeitorEscritor 4] 0 é par = true
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+[LeitorEscritor 6] 0 é par = true
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+[Leitor 1] 0 é primo = false
+[Leitor 8] 0 é primo = false
+[Leitor 5] 0 é primo = false
+[Leitor 10] 0 é primo = false
+[LeitorEscritor 5] 0 é par = true
+[Leitor 7] 0 é primo = false
+le.leitorSaindo(1)
+[Leitor 2] 0 é primo = false
+le.leitorSaindo(2)
+[Leitor 9] 0 é primo = false
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(6)
+le.leitorSaindo(4)
+le.leitorSaindo(10)
+le.escritorBloqueado(10)
+le.leitorSaindo(8)
+le.escritorBloqueado(8)
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(3)
+le.leitorSaindo(9)
+le.leitorSaindo(7)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.leitorSaindo(5)
+le.leitorSaindo(10)
+le.leitorSaindo(8)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(5)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(1)
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(5)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorSaindo(9)
+le.escritorEscrevendo(5)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+[LeitorEscritor 5] mudou valor para 18
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorBloqueado(1)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorSaindo(5)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(1)
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(5)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorSaindo(7)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 14
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorBloqueado(1)
+le.escritorBloqueado(7)
+le.escritorSaindo(9)
+le.escritorEscrevendo(8)
+le.escritorBloqueado(7)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(1)
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(5)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorSaindo(8)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 16
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorBloqueado(1)
+le.escritorSaindo(7)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(1)
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(5)
+le.escritorBloqueado(4)
+le.escritorSaindo(6)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 12
+le.escritorBloqueado(4)
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorSaindo(1)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(5)
+le.escritorSaindo(4)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 8
+le.escritorBloqueado(5)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorBloqueado(10)
+le.escritorSaindo(8)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorBloqueado(10)
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorSaindo(5)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 10
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.escritorSaindo(10)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorSaindo(3)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 6
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorSaindo(3)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorBloqueado(1)
+le.escritorSaindo(2)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 4
+le.escritorBloqueado(1)
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorSaindo(6)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(2)
+le.escritorBloqueado(4)
+le.escritorSaindo(1)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 2
+le.escritorBloqueado(4)
+le.escritorSaindo(2)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 4
+le.escritorSaindo(4)
+le.leitorLendo(2)
+[Leitor 2] 4 é primo = false
+le.leitorSaindo(2)
+le.leitorLendo(4)
+[Leitor 4] 4 é primo = false
+le.leitorLendo(6)
+le.leitorLendo(1)
+[Leitor 6] 4 é primo = false
+le.leitorSaindo(4)
+[Leitor 1] 4 é primo = false
+le.leitorSaindo(6)
+le.leitorSaindo(1)
+le.leitorLendo(9)
+[Leitor 9] 4 é primo = false
+le.leitorLendo(7)
+le.leitorLendo(3)
+le.leitorSaindo(9)
+[Leitor 3] 4 é primo = false
+[Leitor 7] 4 é primo = false
+le.leitorSaindo(3)
+le.leitorSaindo(7)
+le.leitorLendo(10)
+[Leitor 10] 4 é primo = false
+le.leitorSaindo(10)
+le.leitorLendo(5)
+[Leitor 5] 4 é primo = false
+le.leitorSaindo(5)
+le.leitorLendo(8)
+[Leitor 8] 4 é primo = false
+le.leitorSaindo(8)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.leitorLendo(5)
+[LeitorEscritor 5] 10 é par = true
+le.escritorBloqueado(9)
+le.leitorSaindo(5)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 20
+le.escritorBloqueado(9)
+le.escritorSaindo(5)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorSaindo(9)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorSaindo(7)
+le.leitorLendo(9)
+[LeitorEscritor 9] 7 é par = false
+le.leitorSaindo(9)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 14
+le.escritorSaindo(9)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorSaindo(8)
+le.leitorLendo(7)
+[LeitorEscritor 7] 8 é par = true
+le.leitorSaindo(7)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 16
+le.escritorSaindo(7)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorSaindo(6)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.leitorBloqueado(1)
+le.escritorSaindo(4)
+le.leitorLendo(1)
+[LeitorEscritor 1] 4 é par = true
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+le.leitorBloqueado(3)
+le.escritorBloqueado(3)
+le.leitorBloqueado(10)
+le.escritorBloqueado(5)
+le.leitorBloqueado(8)
+[LeitorEscritor 1] mudou valor para 8
+le.escritorSaindo(1)
+le.leitorLendo(3)
+[LeitorEscritor 3] 8 é par = true
+le.leitorLendo(8)
+[LeitorEscritor 8] 8 é par = true
+le.escritorBloqueado(5)
+le.leitorLendo(10)
+[LeitorEscritor 10] 8 é par = true
+le.escritorBloqueado(3)
+le.leitorSaindo(10)
+le.escritorBloqueado(10)
+le.leitorSaindo(8)
+le.escritorBloqueado(8)
+le.leitorSaindo(3)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 16
+le.escritorBloqueado(5)
+le.escritorSaindo(3)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(5)
+le.escritorBloqueado(8)
+le.escritorBloqueado(10)
+le.escritorSaindo(3)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorSaindo(5)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 10
+le.escritorBloqueado(8)
+le.escritorSaindo(10)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 20
+le.escritorSaindo(8)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.leitorBloqueado(2)
+le.leitorBloqueado(4)
+le.leitorBloqueado(6)
+le.escritorBloqueado(1)
+le.escritorSaindo(2)
+le.leitorLendo(2)
+[LeitorEscritor 2] 2 é par = true
+le.escritorBloqueado(1)
+le.leitorLendo(6)
+[LeitorEscritor 6] 2 é par = true
+le.leitorLendo(4)
+[LeitorEscritor 4] 2 é par = true
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(2)
+le.escritorBloqueado(2)
+le.leitorSaindo(4)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 4
+le.escritorBloqueado(1)
+le.escritorSaindo(4)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 8
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorSaindo(6)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(2)
+le.escritorSaindo(1)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 2
+le.escritorSaindo(2)
+le.leitorLendo(4)
+[Leitor 4] 2 é primo = true
+le.leitorLendo(6)
+[Leitor 6] 2 é primo = true
+le.leitorLendo(2)
+[Leitor 2] 2 é primo = true
+le.leitorSaindo(6)
+le.leitorSaindo(4)
+le.leitorSaindo(2)
+le.leitorLendo(9)
+le.leitorLendo(10)
+[Leitor 10] 2 é primo = true
+[Leitor 9] 2 é primo = true
+le.leitorLendo(5)
+[Leitor 5] 2 é primo = true
+le.leitorLendo(7)
+[Leitor 7] 2 é primo = true
+le.leitorLendo(3)
+[Leitor 3] 2 é primo = true
+le.leitorLendo(1)
+[Leitor 1] 2 é primo = true
+le.leitorSaindo(3)
+le.leitorSaindo(7)
+le.leitorSaindo(5)
+le.leitorSaindo(9)
+le.leitorSaindo(10)
+le.leitorSaindo(1)
+le.leitorLendo(8)
+[Leitor 8] 2 é primo = true
+le.leitorSaindo(8)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.leitorLendo(5)
+le.escritorBloqueado(9)
+[LeitorEscritor 5] 10 é par = true
+le.leitorSaindo(5)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 20
+le.escritorBloqueado(9)
+le.escritorSaindo(5)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorSaindo(9)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorSaindo(7)
+le.leitorLendo(9)
+[LeitorEscritor 9] 7 é par = false
+le.leitorSaindo(9)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 14
+le.escritorSaindo(9)
+le.escritorEscrevendo(8)
+le.leitorBloqueado(7)
+[Escritor 8] mudou valor para 8
+le.escritorSaindo(8)
+le.leitorLendo(7)
+[LeitorEscritor 7] 8 é par = true
+le.leitorSaindo(7)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 16
+le.escritorSaindo(7)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorSaindo(6)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.leitorBloqueado(1)
+le.leitorBloqueado(3)
+le.escritorSaindo(4)
+le.leitorLendo(1)
+[LeitorEscritor 1] 4 é par = true
+le.leitorLendo(3)
+[LeitorEscritor 3] 4 é par = true
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(3)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 8
+le.escritorBloqueado(1)
+le.escritorSaindo(3)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorSaindo(1)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(2)
+le.leitorBloqueado(10)
+le.leitorBloqueado(8)
+le.escritorBloqueado(5)
+le.escritorSaindo(3)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorBloqueado(5)
+le.leitorBloqueado(8)
+le.leitorBloqueado(10)
+le.escritorSaindo(2)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.leitorBloqueado(10)
+le.leitorBloqueado(8)
+le.escritorSaindo(5)
+le.leitorLendo(10)
+le.leitorLendo(8)
+[LeitorEscritor 10] 5 é par = false
+[LeitorEscritor 8] 5 é par = false
+le.leitorSaindo(10)
+le.escritorBloqueado(10)
+le.leitorLendo(2)
+[LeitorEscritor 2] 5 é par = false
+le.escritorBloqueado(1)
+le.leitorLendo(6)
+[LeitorEscritor 6] 5 é par = false
+le.leitorLendo(4)
+[LeitorEscritor 4] 5 é par = false
+le.leitorSaindo(8)
+le.escritorBloqueado(8)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(2)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 10
+le.escritorBloqueado(10)
+le.escritorSaindo(2)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(10)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(8)
+le.escritorSaindo(1)
+le.escritorEscrevendo(10)
+le.escritorBloqueado(8)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+[LeitorEscritor 10] mudou valor para 2
+le.escritorSaindo(10)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 4
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorSaindo(8)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 8
+le.escritorBloqueado(4)
+le.escritorSaindo(6)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 16
+le.escritorSaindo(4)
+le.leitorLendo(6)
+[Leitor 6] 16 é primo = false
+le.leitorSaindo(6)
+le.leitorLendo(4)
+[Leitor 4] 16 é primo = false
+le.leitorSaindo(4)
+le.leitorLendo(3)
+le.leitorLendo(2)
+le.leitorLendo(10)
+[Leitor 3] 16 é primo = false
+le.leitorSaindo(3)
+[Leitor 10] 16 é primo = false
+le.leitorLendo(9)
+[Leitor 9] 16 é primo = false
+le.leitorLendo(5)
+[Leitor 5] 16 é primo = false
+le.leitorLendo(7)
+[Leitor 7] 16 é primo = false
+le.leitorSaindo(5)
+le.leitorSaindo(9)
+le.leitorSaindo(10)
+le.leitorLendo(1)
+[Leitor 1] 16 é primo = false
+le.leitorSaindo(1)
+[Leitor 2] 16 é primo = false
+le.leitorSaindo(7)
+le.leitorSaindo(2)
+le.leitorLendo(8)
+[Leitor 8] 16 é primo = false
+le.leitorSaindo(8)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.leitorLendo(5)
+[LeitorEscritor 5] 10 é par = true
+le.escritorBloqueado(10)
+le.leitorLendo(8)
+[Leitor 8] 10 é primo = false
+le.leitorLendo(1)
+[Leitor 1] 10 é primo = false
+le.leitorLendo(7)
+[Leitor 7] 10 é primo = false
+le.leitorLendo(2)
+[Leitor 2] 10 é primo = false
+le.leitorLendo(9)
+[Leitor 9] 10 é primo = false
+le.leitorLendo(10)
+[Leitor 10] 10 é primo = false
+le.leitorLendo(3)
+[Leitor 3] 10 é primo = false
+le.leitorLendo(5)
+[Leitor 5] 10 é primo = false
+le.leitorLendo(6)
+[Leitor 6] 10 é primo = false
+le.leitorLendo(4)
+[Leitor 4] 10 é primo = false
+le.leitorLendo(8)
+[LeitorEscritor 8] 10 é par = true
+le.leitorLendo(4)
+le.leitorLendo(6)
+[LeitorEscritor 4] 10 é par = true
+le.leitorLendo(10)
+[LeitorEscritor 6] 10 é par = true
+le.escritorBloqueado(1)
+[LeitorEscritor 10] 10 é par = true
+le.leitorLendo(2)
+[LeitorEscritor 2] 10 é par = true
+le.escritorBloqueado(5)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.leitorLendo(1)
+[LeitorEscritor 1] 10 é par = true
+le.leitorLendo(3)
+[LeitorEscritor 3] 10 é par = true
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.leitorLendo(7)
+[LeitorEscritor 7] 10 é par = true
+le.escritorBloqueado(8)
+le.leitorLendo(9)
+[LeitorEscritor 9] 10 é par = true
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(2)
+le.escritorBloqueado(2)
+le.leitorSaindo(10)
+le.escritorBloqueado(10)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(8)
+le.escritorBloqueado(8)
+le.leitorSaindo(4)
+le.leitorSaindo(6)
+le.leitorSaindo(5)
+le.leitorSaindo(3)
+le.leitorSaindo(10)
+le.leitorSaindo(9)
+le.leitorSaindo(2)
+le.leitorSaindo(7)
+le.leitorSaindo(1)
+le.leitorSaindo(8)
+le.leitorSaindo(5)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 20
+le.escritorBloqueado(10)
+le.escritorSaindo(5)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(10)
+le.escritorBloqueado(8)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(10)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorBloqueado(5)
+le.escritorSaindo(1)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorBloqueado(5)
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(10)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(8)
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorBloqueado(8)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(10)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorBloqueado(2)
+le.escritorSaindo(5)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 10
+le.escritorBloqueado(2)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(10)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorSaindo(8)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(10)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorSaindo(2)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 4
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(10)
+le.escritorBloqueado(6)
+le.escritorSaindo(4)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(6)
+le.escritorBloqueado(10)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorSaindo(3)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 6
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorBloqueado(10)
+le.escritorSaindo(6)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(10)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorSaindo(4)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 8
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorSaindo(10)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(8)
+le.escritorSaindo(6)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 12
+le.escritorBloqueado(8)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorSaindo(2)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorSaindo(8)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorSaindo(1)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorSaindo(7)
+le.escritorEscrevendo(3)
+le.escritorBloqueado(9)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+[LeitorEscritor 3] mudou valor para 14
+le.escritorSaindo(3)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorSaindo(9)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 18
+le.escritorBloqueado(9)
+le.escritorSaindo(7)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 36
+le.escritorSaindo(9)
+le.leitorLendo(3)
+le.escritorBloqueado(1)
+[Leitor 3] 36 é primo = false
+le.leitorLendo(5)
+[LeitorEscritor 5] 36 é par = true
+le.leitorLendo(1)
+[Leitor 1] 36 é primo = false
+le.leitorLendo(8)
+[Leitor 8] 36 é primo = false
+le.leitorLendo(7)
+[Leitor 7] 36 é primo = false
+le.leitorLendo(10)
+[Leitor 10] 36 é primo = false
+le.leitorLendo(9)
+[Leitor 9] 36 é primo = false
+le.leitorLendo(2)
+le.leitorLendo(6)
+[Leitor 2] 36 é primo = false
+le.leitorLendo(5)
+[Leitor 6] 36 é primo = false
+le.leitorLendo(4)
+[Leitor 5] 36 é primo = false
+le.leitorSaindo(6)
+[Leitor 4] 36 é primo = false
+le.leitorSaindo(2)
+le.leitorSaindo(9)
+le.leitorSaindo(10)
+le.leitorSaindo(7)
+le.leitorSaindo(8)
+le.leitorSaindo(1)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.leitorSaindo(3)
+le.leitorSaindo(4)
+le.leitorSaindo(5)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorSaindo(1)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 2
+le.escritorSaindo(5)
+le.escritorEscrevendo(10)
+le.escritorBloqueado(5)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorSaindo(5)
+le.leitorLendo(8)
+[LeitorEscritor 8] 5 é par = false
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 10
+le.escritorSaindo(8)
+le.escritorEscrevendo(2)
+le.leitorBloqueado(10)
+le.escritorBloqueado(4)
+le.leitorBloqueado(6)
+le.escritorBloqueado(3)
+le.leitorBloqueado(4)
+le.leitorBloqueado(9)
+le.leitorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.leitorBloqueado(3)
+[Escritor 2] mudou valor para 2
+le.leitorBloqueado(1)
+le.escritorBloqueado(8)
+le.leitorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorSaindo(2)
+le.leitorLendo(10)
+[LeitorEscritor 10] 2 é par = true
+le.escritorBloqueado(6)
+le.leitorLendo(2)
+[LeitorEscritor 2] 2 é par = true
+le.escritorBloqueado(8)
+le.leitorLendo(1)
+[LeitorEscritor 1] 2 é par = true
+le.leitorLendo(3)
+[LeitorEscritor 3] 2 é par = true
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.leitorLendo(7)
+[LeitorEscritor 7] 2 é par = true
+le.leitorLendo(9)
+[LeitorEscritor 9] 2 é par = true
+le.leitorLendo(4)
+[LeitorEscritor 4] 2 é par = true
+le.escritorBloqueado(3)
+le.leitorLendo(6)
+[LeitorEscritor 6] 2 é par = true
+le.escritorBloqueado(4)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(2)
+le.escritorBloqueado(2)
+le.leitorSaindo(10)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 4
+le.escritorBloqueado(6)
+le.escritorSaindo(10)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(6)
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorSaindo(8)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(2)
+le.escritorSaindo(6)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorBloqueado(2)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorBloqueado(9)
+le.escritorSaindo(7)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 14
+le.escritorBloqueado(9)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorSaindo(2)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorSaindo(9)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 18
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorSaindo(1)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorSaindo(3)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 6
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorSaindo(3)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorSaindo(4)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 8
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorSaindo(7)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 16
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorSaindo(6)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 32
+le.escritorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 64
+le.escritorSaindo(4)
+le.leitorLendo(6)
+[Leitor 6] 64 é primo = false
+le.escritorBloqueado(5)
+le.leitorLendo(5)
+[LeitorEscritor 5] 64 é par = true
+le.escritorBloqueado(10)
+le.escritorBloqueado(1)
+le.leitorLendo(5)
+le.leitorLendo(4)
+[Leitor 5] 64 é primo = false
+le.leitorLendo(3)
+[Leitor 4] 64 é primo = false
+le.leitorLendo(1)
+[Leitor 3] 64 é primo = false
+le.leitorLendo(8)
+[Leitor 1] 64 é primo = false
+le.leitorLendo(10)
+[Leitor 8] 64 é primo = false
+le.leitorLendo(7)
+[Leitor 10] 64 é primo = false
+le.leitorLendo(2)
+[Leitor 7] 64 é primo = false
+le.leitorLendo(9)
+[Leitor 2] 64 é primo = false
+le.leitorSaindo(7)
+[Leitor 9] 64 é primo = false
+le.leitorSaindo(10)
+le.leitorSaindo(8)
+le.leitorSaindo(1)
+le.leitorSaindo(3)
+le.leitorSaindo(4)
+le.leitorSaindo(5)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.leitorSaindo(6)
+le.leitorSaindo(9)
+le.leitorSaindo(2)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorSaindo(5)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorBloqueado(5)
+le.escritorBloqueado(1)
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 20
+le.escritorBloqueado(1)
+le.escritorSaindo(5)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorSaindo(1)
+le.leitorLendo(8)
+[LeitorEscritor 8] 1 é par = false
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 2
+le.escritorSaindo(8)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorSaindo(2)
+le.leitorLendo(10)
+[LeitorEscritor 10] 2 é par = true
+le.leitorSaindo(10)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 4
+le.escritorSaindo(10)
+le.escritorEscrevendo(7)
+le.leitorBloqueado(1)
+le.escritorBloqueado(9)
+le.leitorBloqueado(2)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.leitorBloqueado(6)
+le.escritorBloqueado(4)
+le.leitorBloqueado(7)
+le.escritorBloqueado(3)
+le.leitorBloqueado(3)
+[Escritor 7] mudou valor para 7
+le.escritorSaindo(7)
+le.leitorLendo(1)
+[LeitorEscritor 1] 7 é par = false
+le.leitorLendo(3)
+[LeitorEscritor 3] 7 é par = false
+le.escritorBloqueado(3)
+le.leitorLendo(7)
+[LeitorEscritor 7] 7 é par = false
+le.escritorBloqueado(4)
+le.leitorLendo(6)
+[LeitorEscritor 6] 7 é par = false
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.leitorLendo(2)
+le.escritorBloqueado(9)
+[LeitorEscritor 2] 7 é par = false
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(2)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 14
+le.escritorBloqueado(3)
+le.escritorSaindo(2)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorBloqueado(8)
+le.escritorSaindo(4)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(8)
+le.escritorBloqueado(6)
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(1)
+le.escritorSaindo(3)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(1)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorSaindo(8)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorBloqueado(6)
+le.leitorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.leitorBloqueado(9)
+le.escritorSaindo(1)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.leitorBloqueado(9)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorBloqueado(9)
+le.leitorBloqueado(4)
+le.escritorSaindo(6)
+le.leitorLendo(9)
+le.leitorLendo(4)
+[LeitorEscritor 9] 6 é par = true
+[LeitorEscritor 4] 6 é par = true
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(9)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 12
+le.escritorBloqueado(9)
+le.escritorSaindo(9)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 24
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorSaindo(6)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 18
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorSaindo(7)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 36
+le.escritorBloqueado(3)
+le.escritorSaindo(4)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 72
+le.escritorSaindo(3)
+le.leitorLendo(8)
+le.leitorLendo(6)
+[Leitor 6] 72 é primo = false
+le.leitorLendo(5)
+le.escritorBloqueado(5)
+le.leitorLendo(5)
+[LeitorEscritor 5] 72 é par = true
+le.leitorLendo(4)
+[Leitor 4] 72 é primo = false
+le.leitorLendo(3)
+le.leitorLendo(1)
+[Leitor 3] 72 é primo = false
+le.leitorLendo(7)
+[Leitor 1] 72 é primo = false
+[Leitor 7] 72 é primo = false
+le.leitorLendo(10)
+[Leitor 10] 72 é primo = false
+le.leitorSaindo(7)
+le.leitorSaindo(1)
+le.leitorSaindo(3)
+le.leitorSaindo(4)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.escritorBloqueado(1)
+le.escritorBloqueado(10)
+[Leitor 5] 72 é primo = false
+le.leitorLendo(2)
+[Leitor 2] 72 é primo = false
+le.leitorSaindo(6)
+le.leitorLendo(9)
+[Leitor 9] 72 é primo = false
+le.leitorSaindo(2)
+[Leitor 8] 72 é primo = false
+le.leitorSaindo(5)
+le.leitorSaindo(10)
+le.leitorSaindo(8)
+le.leitorSaindo(9)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorSaindo(5)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 10
+le.escritorBloqueado(10)
+le.escritorBloqueado(1)
+le.escritorSaindo(5)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorBloqueado(1)
+le.escritorSaindo(10)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorSaindo(1)
+le.leitorLendo(8)
+[LeitorEscritor 8] 1 é par = false
+le.escritorBloqueado(2)
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 2
+le.escritorBloqueado(2)
+le.escritorSaindo(8)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorSaindo(2)
+le.escritorEscrevendo(7)
+le.leitorBloqueado(10)
+[Escritor 7] mudou valor para 7
+le.escritorSaindo(7)
+le.leitorLendo(10)
+[LeitorEscritor 10] 7 é par = false
+le.leitorSaindo(10)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 14
+le.escritorSaindo(10)
+le.leitorLendo(2)
+[LeitorEscritor 2] 14 é par = true
+le.leitorSaindo(2)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 28
+le.escritorSaindo(2)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorSaindo(4)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(3)
+le.escritorSaindo(8)
+le.leitorLendo(7)
+le.escritorBloqueado(9)
+[LeitorEscritor 7] 8 é par = true
+le.leitorLendo(6)
+[LeitorEscritor 6] 8 é par = true
+le.leitorLendo(9)
+[LeitorEscritor 9] 8 é par = true
+le.escritorBloqueado(6)
+le.leitorLendo(1)
+[LeitorEscritor 1] 8 é par = true
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorBloqueado(9)
+le.escritorSaindo(1)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(9)
+le.escritorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorBloqueado(9)
+le.escritorSaindo(6)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(9)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorSaindo(9)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 18
+le.escritorBloqueado(3)
+le.leitorBloqueado(3)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.leitorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.leitorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.leitorBloqueado(3)
+le.escritorSaindo(3)
+le.leitorLendo(4)
+[LeitorEscritor 4] 3 é par = false
+le.leitorLendo(3)
+[LeitorEscritor 3] 3 é par = false
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(4)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 6
+le.escritorBloqueado(7)
+le.escritorSaindo(4)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 12
+le.escritorBloqueado(7)
+le.escritorBloqueado(3)
+le.escritorSaindo(6)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 24
+le.escritorBloqueado(3)
+le.escritorSaindo(7)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 48
+le.escritorSaindo(3)
+le.leitorLendo(4)
+le.escritorBloqueado(10)
+le.leitorLendo(5)
+[LeitorEscritor 5] 48 é par = true
+le.escritorBloqueado(5)
+le.leitorLendo(9)
+[Leitor 9] 48 é primo = false
+le.leitorLendo(8)
+[Leitor 8] 48 é primo = false
+le.leitorLendo(10)
+[Leitor 10] 48 é primo = false
+le.leitorSaindo(10)
+le.leitorLendo(5)
+[Leitor 5] 48 é primo = false
+le.leitorLendo(6)
+[Leitor 6] 48 é primo = false
+le.leitorLendo(2)
+[Leitor 2] 48 é primo = false
+le.leitorLendo(3)
+[Leitor 3] 48 é primo = false
+le.leitorLendo(7)
+[Leitor 7] 48 é primo = false
+le.leitorLendo(1)
+le.leitorSaindo(7)
+[Leitor 1] 48 é primo = false
+le.leitorSaindo(3)
+le.leitorSaindo(2)
+le.leitorSaindo(6)
+le.leitorSaindo(5)
+le.leitorSaindo(8)
+le.leitorSaindo(9)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+[Leitor 4] 48 é primo = false
+le.escritorBloqueado(1)
+le.leitorSaindo(4)
+le.leitorSaindo(1)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+le.escritorBloqueado(1)
+[Escritor 5] mudou valor para 5
+le.escritorBloqueado(5)
+le.escritorSaindo(5)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(5)
+le.escritorSaindo(1)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 2
+le.escritorSaindo(5)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.leitorBloqueado(8)
+le.escritorSaindo(2)
+le.leitorLendo(8)
+[LeitorEscritor 8] 2 é par = true
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 4
+le.escritorSaindo(8)
+le.leitorLendo(10)
+[LeitorEscritor 10] 4 é par = true
+le.escritorBloqueado(7)
+le.leitorSaindo(10)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 8
+le.escritorBloqueado(7)
+le.escritorSaindo(10)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorSaindo(7)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(8)
+le.leitorBloqueado(2)
+le.escritorSaindo(4)
+le.leitorLendo(1)
+le.leitorLendo(2)
+[LeitorEscritor 1] 4 é par = true
+le.escritorBloqueado(8)
+[LeitorEscritor 2] 4 é par = true
+le.leitorSaindo(1)
+le.escritorBloqueado(1)
+le.leitorSaindo(2)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 8
+le.escritorBloqueado(8)
+le.escritorSaindo(2)
+le.escritorEscrevendo(1)
+le.escritorBloqueado(8)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorSaindo(1)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorSaindo(8)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.leitorBloqueado(3)
+le.leitorBloqueado(6)
+le.leitorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorBloqueado(3)
+le.leitorBloqueado(9)
+le.leitorBloqueado(4)
+le.escritorSaindo(9)
+le.leitorLendo(3)
+le.leitorLendo(4)
+[LeitorEscritor 3] 9 é par = false
+le.leitorLendo(9)
+[LeitorEscritor 4] 9 é par = false
+le.escritorBloqueado(3)
+[LeitorEscritor 9] 9 é par = false
+le.escritorBloqueado(6)
+le.leitorLendo(7)
+[LeitorEscritor 7] 9 é par = false
+le.leitorLendo(6)
+le.leitorSaindo(7)
+[LeitorEscritor 6] 9 é par = false
+le.escritorBloqueado(7)
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(3)
+le.escritorBloqueado(3)
+le.leitorSaindo(6)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 18
+le.escritorBloqueado(3)
+le.escritorSaindo(6)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(3)
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorBloqueado(7)
+le.escritorSaindo(6)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(7)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(3)
+le.escritorSaindo(3)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 6
+le.escritorBloqueado(3)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorSaindo(7)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 12
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorSaindo(3)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 24
+le.escritorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 48
+le.escritorSaindo(4)
+le.leitorLendo(10)
+[Leitor 10] 48 é primo = false
+le.escritorBloqueado(10)
+le.leitorLendo(1)
+[Leitor 1] 48 é primo = false
+le.leitorLendo(9)
+[Leitor 9] 48 é primo = false
+le.leitorLendo(4)
+[Leitor 4] 48 é primo = false
+le.leitorLendo(8)
+[Leitor 8] 48 é primo = false
+le.leitorSaindo(8)
+le.leitorLendo(5)
+[Leitor 5] 48 é primo = false
+le.leitorLendo(2)
+[Leitor 2] 48 é primo = false
+le.leitorLendo(6)
+[Leitor 6] 48 é primo = false
+le.leitorLendo(7)
+[Leitor 7] 48 é primo = false
+le.leitorLendo(3)
+[Leitor 3] 48 é primo = false
+le.leitorSaindo(7)
+le.leitorSaindo(6)
+le.leitorSaindo(2)
+le.leitorSaindo(5)
+le.leitorSaindo(4)
+le.leitorSaindo(9)
+le.leitorSaindo(1)
+le.leitorSaindo(10)
+le.leitorSaindo(3)
+le.escritorEscrevendo(10)
+[Escritor 10] mudou valor para 10
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorBloqueado(2)
+le.leitorBloqueado(5)
+le.escritorBloqueado(1)
+le.escritorBloqueado(7)
+le.leitorBloqueado(10)
+le.escritorSaindo(5)
+le.leitorLendo(8)
+le.leitorLendo(10)
+[LeitorEscritor 8] 5 é par = false
+le.escritorBloqueado(7)
+[LeitorEscritor 10] 5 é par = false
+le.escritorBloqueado(1)
+le.leitorLendo(5)
+[LeitorEscritor 5] 5 é par = false
+le.escritorBloqueado(2)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.leitorSaindo(10)
+le.escritorBloqueado(10)
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 10
+le.escritorBloqueado(7)
+le.escritorSaindo(8)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorBloqueado(7)
+le.escritorBloqueado(10)
+le.escritorBloqueado(5)
+le.escritorBloqueado(2)
+le.escritorSaindo(1)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorBloqueado(2)
+le.escritorBloqueado(5)
+le.escritorBloqueado(10)
+le.escritorSaindo(7)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorBloqueado(10)
+le.escritorBloqueado(5)
+le.escritorSaindo(2)
+le.escritorEscrevendo(10)
+[LeitorEscritor 10] mudou valor para 4
+le.escritorBloqueado(5)
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 8
+le.escritorSaindo(5)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(8)
+le.leitorBloqueado(1)
+le.leitorBloqueado(2)
+le.escritorSaindo(4)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorSaindo(8)
+le.leitorLendo(2)
+le.leitorLendo(1)
+[LeitorEscritor 2] 8 é par = true
+[LeitorEscritor 1] 8 é par = true
+le.leitorSaindo(2)
+le.escritorBloqueado(2)
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+[LeitorEscritor 1] mudou valor para 16
+le.escritorBloqueado(2)
+le.escritorSaindo(1)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 32
+le.escritorSaindo(2)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorSaindo(9)
+le.escritorEscrevendo(6)
+le.leitorBloqueado(9)
+le.leitorBloqueado(3)
+le.leitorBloqueado(7)
+le.leitorBloqueado(6)
+le.escritorBloqueado(3)
+le.leitorBloqueado(4)
+[Escritor 6] mudou valor para 6
+le.escritorSaindo(6)
+le.leitorLendo(9)
+le.leitorLendo(4)
+[LeitorEscritor 9] 6 é par = true
+le.escritorBloqueado(3)
+[LeitorEscritor 4] 6 é par = true
+le.leitorLendo(6)
+[LeitorEscritor 6] 6 é par = true
+le.leitorLendo(7)
+[LeitorEscritor 7] 6 é par = true
+le.leitorLendo(3)
+[LeitorEscritor 3] 6 é par = true
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(9)
+le.escritorBloqueado(9)
+le.leitorSaindo(3)
+le.escritorEscrevendo(3)
+le.escritorBloqueado(3)
+[LeitorEscritor 3] mudou valor para 12
+le.escritorSaindo(3)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 24
+le.escritorBloqueado(3)
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorBloqueado(6)
+le.escritorSaindo(7)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(6)
+le.escritorBloqueado(4)
+le.escritorBloqueado(9)
+le.escritorSaindo(3)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 6
+le.escritorBloqueado(9)
+le.escritorBloqueado(4)
+le.escritorSaindo(6)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 12
+le.escritorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 24
+le.escritorSaindo(4)
+le.escritorEscrevendo(5)
+[Escritor 5] mudou valor para 5
+le.escritorSaindo(5)
+le.escritorEscrevendo(2)
+[Escritor 2] mudou valor para 2
+le.escritorSaindo(2)
+le.leitorLendo(5)
+le.leitorLendo(10)
+[LeitorEscritor 10] 2 é par = true
+[LeitorEscritor 5] 2 é par = true
+le.leitorSaindo(10)
+le.escritorBloqueado(1)
+le.leitorLendo(8)
+[LeitorEscritor 8] 2 é par = true
+le.escritorBloqueado(10)
+le.leitorSaindo(5)
+le.escritorBloqueado(5)
+le.escritorBloqueado(7)
+le.leitorSaindo(8)
+le.escritorEscrevendo(8)
+[LeitorEscritor 8] mudou valor para 4
+le.escritorBloqueado(1)
+le.escritorSaindo(8)
+le.escritorEscrevendo(10)
+le.escritorBloqueado(1)
+[LeitorEscritor 10] mudou valor para 8
+le.escritorBloqueado(7)
+le.escritorSaindo(10)
+le.escritorEscrevendo(5)
+[LeitorEscritor 5] mudou valor para 16
+le.escritorBloqueado(7)
+le.escritorBloqueado(1)
+le.escritorSaindo(5)
+le.escritorEscrevendo(7)
+[Escritor 7] mudou valor para 7
+le.escritorBloqueado(1)
+le.escritorSaindo(7)
+le.escritorEscrevendo(1)
+[Escritor 1] mudou valor para 1
+le.escritorSaindo(1)
+le.leitorLendo(1)
+le.leitorLendo(2)
+[LeitorEscritor 1] 1 é par = false
+le.escritorBloqueado(4)
+[LeitorEscritor 2] 1 é par = false
+le.escritorBloqueado(8)
+le.leitorSaindo(2)
+le.escritorBloqueado(2)
+le.leitorSaindo(1)
+le.escritorEscrevendo(1)
+le.escritorBloqueado(4)
+[LeitorEscritor 1] mudou valor para 2
+le.escritorSaindo(1)
+le.escritorEscrevendo(8)
+[Escritor 8] mudou valor para 8
+le.escritorBloqueado(4)
+le.escritorBloqueado(2)
+le.escritorSaindo(8)
+le.escritorEscrevendo(4)
+[Escritor 4] mudou valor para 4
+le.escritorBloqueado(2)
+le.escritorSaindo(4)
+le.escritorEscrevendo(2)
+[LeitorEscritor 2] mudou valor para 8
+le.escritorSaindo(2)
+le.leitorLendo(3)
+le.leitorLendo(6)
+[LeitorEscritor 6] 8 é par = true
+le.escritorBloqueado(3)
+le.escritorBloqueado(9)
+le.leitorLendo(7)
+[LeitorEscritor 7] 8 é par = true
+le.escritorBloqueado(6)
+le.leitorSaindo(7)
+le.escritorBloqueado(7)
+le.leitorSaindo(6)
+le.escritorBloqueado(6)
+[LeitorEscritor 3] 8 é par = true
+le.leitorSaindo(3)
+le.escritorEscrevendo(3)
+[LeitorEscritor 3] mudou valor para 16
+le.escritorBloqueado(3)
+le.escritorSaindo(3)
+le.escritorEscrevendo(9)
+[Escritor 9] mudou valor para 9
+le.escritorBloqueado(3)
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorSaindo(9)
+le.escritorEscrevendo(3)
+[Escritor 3] mudou valor para 3
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorBloqueado(6)
+le.escritorSaindo(3)
+le.escritorEscrevendo(6)
+[Escritor 6] mudou valor para 6
+le.escritorBloqueado(6)
+le.escritorBloqueado(7)
+le.escritorSaindo(6)
+le.escritorEscrevendo(6)
+[LeitorEscritor 6] mudou valor para 12
+le.escritorBloqueado(7)
+le.escritorSaindo(6)
+le.escritorEscrevendo(7)
+[LeitorEscritor 7] mudou valor para 24
+le.leitorBloqueado(4)
+le.leitorBloqueado(9)
+le.escritorSaindo(7)
+le.leitorLendo(4)
+le.leitorLendo(9)
+[LeitorEscritor 4] 24 é par = true
+[LeitorEscritor 9] 24 é par = true
+le.leitorSaindo(4)
+le.escritorBloqueado(4)
+le.leitorSaindo(9)
+le.escritorEscrevendo(9)
+[LeitorEscritor 9] mudou valor para 48
+le.escritorBloqueado(4)
+le.escritorSaindo(9)
+le.escritorEscrevendo(4)
+[LeitorEscritor 4] mudou valor para 96
+le.escritorSaindo(4)

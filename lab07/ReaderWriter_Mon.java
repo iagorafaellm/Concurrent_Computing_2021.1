@@ -33,7 +33,7 @@ public class ReaderWriter_Mon {
         this.readers--;
         if (this.readers == 0)
             this.notify();
-        System.out.println ("> Saindo L"+id);
+        System.out.println ("le.leitorSaindo(" + id + ")");
     }
 
     public synchronized void writerIn(int id) {
