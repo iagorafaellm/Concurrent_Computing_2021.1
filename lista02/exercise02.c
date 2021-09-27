@@ -32,11 +32,11 @@ void *T2 (void *arg) {
     while (1) {
         pthread_mutex_lock(&mutex); //assim como na na T1, usei o lock para trancar e possibilitar o uso da variável global contador
 
-        if (contador % 100 == 0) { // Se for multiplo imprime e libera a condicao pra T1 poder somar
+        if (contador % 100 == 0) { //sendo múltiplo, ele printa e destranca a condição para, aí sim, permitir T1 somar
             printf("%lld\n", contador);
             pthread_cond_signal(&multCondition);
         }
-        pthread_cond_wait(&multCondition, &mutex); // Espera a condicao estar liberada novamente
+        pthread_cond_wait(&multCondition, &mutex); //fica na espera da condição destrancar
         pthread_mutex_unlock(&mutex);
     }
 }
