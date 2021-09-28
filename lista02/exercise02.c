@@ -48,12 +48,20 @@ int main () {
     pthread_mutex_init(&mutex, NULL);
     pthread_cond_init(&multCondition, NULL);
 
-    if (pthread_create(&tid1, NULL, T1, NULL) && pthread_create(&tid2, NULL, T2, NULL)) {
+    if (pthread_create(&tid1, NULL, T1, NULL)) {
+        printf("ERROR... pthread_create");
+        return 1;
+    }
+    if (pthread_create(&tid2, NULL, T2, NULL)) {
         printf("ERROR... pthread_create");
         return 1;
     }
 
-    if (pthread_join(tid1, NULL) && pthread_join(tid2, NULL)) {
+    if (pthread_join(tid1, NULL)) {
+        printf("ERROR... pthread_join");
+        return 2;
+    }
+    if (pthread_join(tid2, NULL)) {
         printf("ERROR... pthread_join");
         return 2;
     }
