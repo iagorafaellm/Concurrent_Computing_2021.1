@@ -69,7 +69,6 @@ void taskStart () {
     }
 }
 
-
 void freeDestroy () {
     free(tid);
     pthread_cond_destroy(&welcomeCondition);
