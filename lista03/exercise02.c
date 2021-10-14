@@ -3,6 +3,11 @@
 /* Estudante: Iago Rafael Lucas Martins */
 /* Terceira lista de exercícios - Exercício 02 */
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <pthread.h>
+#include <semaphore.h>
+
 //variáveis globais
 sem_t s, d; //s inicializado com 1 e d inicializado com 0
 
