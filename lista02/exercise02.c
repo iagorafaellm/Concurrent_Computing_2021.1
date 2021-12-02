@@ -28,8 +28,6 @@ void *T1 (void * arg) {
     }
 }
 
-
-
 void *T2 (void *arg) {
     while (1) {
         pthread_mutex_lock(&mutex); //assim como na na T1, usei o lock para trancar e possibilitar o uso da variável global contador
